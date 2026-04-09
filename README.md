@@ -27,11 +27,11 @@ Copy code
 
 > NOTE: This is a generic template. DMCA is U.S.-specific; other jurisdictions have different rules. Consult counsel.
 
-[Luis Yair Álvarez vega]  
-[ceibas 1 mz 2 fracc heroes tecamac ]  
-[Tecámac Estado de mexico cp55764]  
-[dathzz57@gmail.com]  
-[confirm]
+[]  
+[ ]  
+[]  
+[]  
+[]
 
 To: GitHub / Hosting Provider / Repository Owner
 
