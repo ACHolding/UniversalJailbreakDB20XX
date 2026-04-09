@@ -27,11 +27,11 @@ Copy code
 
 > NOTE: This is a generic template. DMCA is U.S.-specific; other jurisdictions have different rules. Consult counsel.
 
-[Your Name]  
-[Your Address]  
-[City, State, Zip]  
-[Email]  
-[Date]
+[]  
+[ ]  
+[]  
+[]  
+[]
 
 To: GitHub / Hosting Provider / Repository Owner
 
